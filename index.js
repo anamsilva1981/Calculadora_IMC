@@ -1,3 +1,4 @@
+const port = process.env.PORT || 5500;
 
 const calcular = document.getElementById('calcular');
 
